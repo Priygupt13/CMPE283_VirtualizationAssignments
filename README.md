@@ -1,23 +1,23 @@
 
-CMPE283 : Virtualization Technology
+# CMPE283 : Virtualization Technology
 
-Assignment 1: Discovering VMX Features
+# Assignment 1: Discovering VMX Features
 
-Student names: Priya Gupta , Phani Sai Phalli
+ Student names: Priya Gupta , Phani Sai Phalli
 
-University Name: San Jose State University
+ University Name: San Jose State University
 
-Prerequisites
+# Prerequisites
 
 You will need a machine capable of running Linux, with VMX virtualization features exposed.
 You may be able to do this inside a VM, or maybe not, depending on your hardware and software configuration. • You will need at least one github account (create one at github.com if you don’t already have one)
 
-Assignment Details
+# Assignment Details
 
 We studied Intel SDM provided by professor and listened to the lecture provided by professor on this assignment.
 
-1 . Configuare a GCP vm that has the VMX enable
-2. Download the cmpe283-1.c source file and Make file from canvas
+ 1 . Configuare a GCP vm that has the VMX enable
+ 2. Download the cmpe283-1.c source file and Make file from canvas
 3. make sure to have make tool and gcc compiler on your VM
 4. run(all commands are run in terminal)
     sudo apt install gcc make
