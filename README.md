@@ -16,7 +16,7 @@ Assignment Details
 
 We studied Intel SDM provided by professor and listened to the lecture provided by professor on this assignment.
 
-1: Configuare a GCP vm that has the VMX enable.
+1 . Configuare a GCP vm that has the VMX enable
 2. Download the cmpe283-1.c source file and Make file from canvas
 3. make sure to have make tool and gcc compiler on your VM
 4. run(all commands are run in terminal)
