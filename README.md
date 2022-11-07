@@ -29,7 +29,8 @@ We studied Intel SDM provided by professor and listened to the lecture provided 
      er_priyagupta123@vt-assignment1:~/cmpe283-1$ make
      After running make command, couple of files .o/.ko files will be generated
    d. use insmod/rmmod tool to insert and remove module
-     insmod/rmmod cmpe283-1.ko  
+     sudo insmod ./cmpe283-1.ko
+     sudo rmmod ./cmpe283-1.ko  
  6.  Use dmesg tool to print
     run -> sudo dmesg
     
