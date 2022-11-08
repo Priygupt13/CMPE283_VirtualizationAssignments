@@ -3,7 +3,7 @@
 
 # Assignment 1: Discovering VMX Features
 
- Student names: Priya Gupta , Phani Sai Phalli
+ Student names: Priya Gupta , Phani Sai Ram Munipalli
 
  University Name: San Jose State University
 
