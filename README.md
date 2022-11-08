@@ -69,4 +69,6 @@ By here we sould be able to see the message outputs for pinbased, procbased, pro
    ![VT_Assignment](/images/screenshot1.png)
      
    ![VT_Assignment](/images/screenshot2.png)
+   
+   ![VT_Assignment](/images/screenshot6.png)
 
