@@ -18,7 +18,17 @@ We studied Intel SDM provided by professor and listened to the lecture provided 
 
 There are  total 5 features that we are trying to detect on our GCP VM.
 
-Pinbased (provided by professor Mike as codebase) 
+1. Pinbased (provided by professor Mike as codebase) 
+
+2. Primary ProcBased Controls
+
+3. Secondary ProcBased Controls
+
+4. Tertiary ProcBased Controls
+
+5. Exit Controls
+
+6. Entry Controls
 
 Team Member: Phani Sai Ram Munipalli 
 
@@ -56,7 +66,7 @@ er_priyagupta123@vt-assignment1:~/cmpe283-1$ sudo dmesg
 
     sudo dmesg
 
-By here we sould be able to see the message outputs for pinbased, procbased, procbased02, exit, entry, procbased03 features on terminal
+By here we should be able to see the message outputs for pinbased, procbased, procbased02, exit, entry, procbased03 features on terminal
     
     Below is the screenshot of output after executing commands:
    
