@@ -39,51 +39,24 @@ run(all commands are run in terminal)
 There are 5 total features that we are trying to detect on our GCP VM.
 Pinbased (provided by professor Mike as codebase) 
 
-7. er_priyagupta123@vt-assignment1:~/cmpe283-1$  make
+7. Run under the same directory with MakeFile and cmpe283-1 file in terminal er_priyagupta123@vt-assignment1:~/cmpe283-1$ make
 After running the make command, a couple of files .o/.ko files will be generated
 
-8. To insert the module use below command
+8. Use insmod/rmmod tool to insert and remove module
+
+ sudo insmod ./cmpe283-1.ko 
+     
+ sudo rmmod ./cmpe283-1.ko
   
 er_priyagupta123@vt-assignment1:~/cmpe283-1$ sudo insmod ./cmpe283-1.ko
 
 er_priyagupta123@vt-assignment1:~/cmpe283-1$ sudo dmesg
 
-9. Veify the output for each MSR’s 
+9. Use dmesg tool to print run 
 
-
-
-
- 
-   
-  
-  3. make sure to have make tool and gcc compiler on your VM 
-  
-  4. run(all commands are run in terminal) 
-     sudo apt install gcc make 
-     
-  5. There are 5 total features that we are trying to detect base on our GCP VM.
-  
-     a. Pinbased (provided by professor Mike as codebase) 
-
-     b. Procbased(Primary Proc based), Procbased02 (Secondary Proc based), Procbased03 (Tertiary Proc baseed), exit,entry (write strcuts for these five base on MSR index, and info on SDM, Volume 3 ch.24)
-
-     c. Run under the same directory with MakeFile and cmpe283-1 file in terminal er_priyagupta123@vt-assignment1:~/cmpe283-1$ make .
-   
-        After running make command, couple of files .o/.ko files will be generated
-   
-     d. use insmod/rmmod tool to insert and remove module 
-     
-     sudo insmod ./cmpe283-1.ko 
-     
-     sudo rmmod ./cmpe283-1.ko
-
-6. Use dmesg tool to print run
-    
     sudo dmesg
 
 By here we sould be able to see the message outputs for pinbased, procbased, procbased02, exit, entry, procbased03 features on terminal
-    
- 7. By here we sould be able to see the message outputs for pinbased, procbased, procbased02, exit, entry, procbased03 features on terminal
     
     Below is the screenshot of output after executing commands:
    
