@@ -49,18 +49,21 @@ Team Member: Priya Gupta
 run(all commands are run in terminal) 
      sudo apt install gcc make 
      
-7. Run under the same directory with MakeFile and cmpe283-1 file in terminal er_priyagupta123@vt-assignment1:~/cmpe283-1$ make
-After running the make command, a couple of files .o/.ko files will be generated
+7. Run under the same directory with MakeFile and cmpe283-1 file in terminal 
+
+   er_priyagupta123@vt-assignment1:~/cmpe283-1$ make
+
+   After running the make command, a couple of files .o/.ko files will be generated
 
 8. Use insmod/rmmod tool to insert and remove module
 
- sudo insmod ./cmpe283-1.ko 
+     sudo insmod ./cmpe283-1.ko 
      
- sudo rmmod ./cmpe283-1.ko
+     sudo rmmod ./cmpe283-1.ko
   
-er_priyagupta123@vt-assignment1:~/cmpe283-1$ sudo insmod ./cmpe283-1.ko
+   er_priyagupta123@vt-assignment1:~/cmpe283-1$ sudo insmod ./cmpe283-1.ko
 
-er_priyagupta123@vt-assignment1:~/cmpe283-1$ sudo dmesg
+   er_priyagupta123@vt-assignment1:~/cmpe283-1$ sudo dmesg
 
 9. Use dmesg tool to print run 
 
