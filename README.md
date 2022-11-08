@@ -49,8 +49,15 @@ By here we sould be able to see the message outputs for pinbased, procbased, pro
     
  7. By here we sould be able to see the message outputs for pinbased, procbased, procbased02, exit, entry, procbased03 features on terminal
     
+    Below is the screenshot of output after executing commands:
    
+   ![VT_Assignment](/images/screenshot3.png)
+   
+   ![VT_Assignment](/images/screenshot5.png)
+   
+   ![VT_Assignment](/images/screenshot4.png)
+    
+   ![VT_Assignment](/images/screenshot1.png)
      
-   
-
+   ![VT_Assignment](/images/screenshot2.png)
 
